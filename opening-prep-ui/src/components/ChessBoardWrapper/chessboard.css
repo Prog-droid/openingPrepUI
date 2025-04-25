@@ -1,0 +1,17 @@
+.boardWrapper {
+  position: relative;
+  max-height: 90%;
+  min-width: 35%;
+  min-height: 35%;
+  max-width: 550px;
+  max-height: 550px;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(240, 217, 181);
+}
+
+.board {
+  height: auto;
+  width: auto;
+}
