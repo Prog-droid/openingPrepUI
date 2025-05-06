@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-chessboard": "^4.7.3",
+    "react-use-websocket": "^3.0.0"
+  }
+}
